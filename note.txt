@@ -1,0 +1,5 @@
+python -m django startproject todoapp_api
+
+python -m django startapp api
+
+https://github.com/MgZayarNaing
